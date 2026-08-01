@@ -3,3 +3,6 @@ data/*
 
 # Keep the data folder itself in git repository by allowing .gitkeep
 !data/.gitkeep
+
+# Environment variables
+.env
